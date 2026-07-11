@@ -1,0 +1,5 @@
+this is the sample
+data for file I/O 
+in python 
+programming 
+language.
